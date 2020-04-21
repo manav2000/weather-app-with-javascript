@@ -1,0 +1,22 @@
+01d - clear
+02d - few clouds
+03d - scattered clouds
+04d - broken clouds - overcast
+09n, 09d - shower rain
+010n, 010d - rain
+11n, 11d - thunderstorm
+13n, 13d - snow
+50n, 50d - mist
+
+clear | sunny
+partlycloudly
+partlysunny
+cloudy
+rain
+rain
+tstorms
+snow
+hazy
+
+
+
