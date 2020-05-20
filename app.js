@@ -23,7 +23,7 @@ window.addEventListener("load", () => {
         '13n': 'snow',
         '50n': 'hazy',
     }
-    const key = 'c4c1cfe6622f45212045ff30a0885459';
+    const key = 'YOUR_API_KEY';
 
     //Get coordinates of your location
     if (navigator.geolocation) {
